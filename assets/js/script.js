@@ -85,7 +85,7 @@ const filterFunc = function (selectedValue) {
     if (selectedValue === "all") {
       items[i].classList.add("active");
     } else {
-      const cats = items[i].dataset.category.split(",").map(function (c) { return c.trim(); });
+      const cats = items[i].dataset.category.toLowerCase().split(",").map(function (c) { return c.trim(); });
       if (cats.indexOf(selectedValue) !== -1) {
         items[i].classList.add("active");
       } else {
@@ -191,7 +191,7 @@ async function loadRecipes() {
       return { ...(await r.json()), file: file };
     }));
     recipeList.innerHTML = items.map(function (r) {
-      return '<li class="project-item active" data-filter-item data-category="' + (r.tags || []).join(",") + '" data-recipe="recipies/' + r.file + '">'
+      return '<li class="project-item active" data-filter-item data-category="' + (r.tags || []).join(",").toLowerCase() + '" data-recipe="recipies/' + r.file + '">'
         + '<a href="#">'
         + '<figure class="project-img">'
         + '<img src="' + r.image + '" style="height: 30vh;" alt="' + r.title + '" loading="lazy">'
