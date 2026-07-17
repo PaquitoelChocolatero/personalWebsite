@@ -1,0 +1,37 @@
+{
+  "title": "Chocolate coated sponge cake",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "8",
+  "category": "",
+  "tags": [
+    "Other",
+    "Pastry"
+  ],
+  "ingredients": [
+    "200 gr de chocolate negro para fundir",
+    "100 gr de sugar",
+    "100 gr de flour",
+    "150 gr de butter",
+    "3 eggs medianos",
+    "16 gr de yeast en polvo",
+    "100 ml de cream para montar",
+    "Frambuesas",
+    "Hojas de menta fresca"
+  ],
+  "procedure": [
+    "preheat el oven a 180",
+    "Fundir 150 gr del chocolate con 100 gr de butter.",
+    "Batir las yemas con el sugar hasta que are cremosas",
+    "add el chocolate fundido y la flour tamizada con la yeast",
+    "Montar las claras a punto de nieve e incorporarlas a la mezcla con movimientos suaves y envolventes",
+    "Verterlo en un molde de 20 cm, previamente engrasado y cocerlo durante 40-50 min (depende del oven, ir pinchando para ver si is hecho)",
+    "Desmoldar dándole la vuelta encima de una rejilla y dejar cool",
+    "Cobertura",
+    "—————",
+    "Calentar la cream hasta que empiece a boil y fuera del fuego, add el rest del chocolate y la butter restante. Mezclarlo bien hasta obtener una crema smooth",
+    "Cubrir el sponge cake y dejarlo cool hasta que el chocolate se endurezca.",
+    "serve adornando con frambuesas y hojas de menta"
+  ],
+  "comments": "⚠️ Aun no is probada"
+}

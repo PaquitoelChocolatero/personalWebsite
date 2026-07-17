@@ -1,0 +1,30 @@
+{
+  "title": "Lentils",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "1",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "1/2 cup lentils",
+    "1/2 potato",
+    "1/2 bell pepper verde",
+    "1/4 bell pepper rojo",
+    "1 carrot",
+    "paprika sweet y picante",
+    "cumin",
+    "sal",
+    "bay leaf"
+  ],
+  "procedure": [
+    "Sofreir vegetables",
+    "Meter chorizo para que suelte sabor",
+    "mix con lentils",
+    "add spices",
+    "Cubrir con water (dos dedos more de las lentils?)",
+    "put 12min a olla express"
+  ],
+  "comments": "No termina de be bien el tiempo/water"
+}

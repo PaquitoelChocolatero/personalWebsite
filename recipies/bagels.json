@@ -1,0 +1,38 @@
+{
+  "title": "Bagels",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "8",
+  "category": "",
+  "tags": [
+    "Pastry"
+  ],
+  "ingredients": [
+    "Masa",
+    "====",
+    "400g flour",
+    "2g yeast panadero",
+    "250ml milk",
+    "1 egg",
+    "30g sugar",
+    "50g butter",
+    "6g sal",
+    "bath alcalino",
+    "==========",
+    "2l water",
+    "15g honey",
+    "pizca bicarbonato"
+  ],
+  "procedure": [
+    "Calentar milk y butter 1 min al microondas",
+    "add yeast y rest 15min",
+    "put el rest de ingredientes, amasar y rest 40min",
+    "Volver a amasar y repartir la masa en 8 parts iguales",
+    "Pasar en forma de bagel a un papel de oven engrasado",
+    "put a boil el bath",
+    "Recortar trozo de papel del size del bagel y boil 30s por cada lado",
+    "Pintar con egg batido y semillas (freestyle, las de la granola are bien)",
+    "Meter al oven 15min a 200°C"
+  ],
+  "comments": ""
+}

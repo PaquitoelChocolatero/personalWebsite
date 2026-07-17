@@ -1,0 +1,26 @@
+{
+  "title": "Cacio e pepe",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://youtu.be/eNNkG0s9CB0?t=565",
+  "servings": "1",
+  "category": "",
+  "tags": [
+    "Leftovers",
+    "Main"
+  ],
+  "ingredients": [
+    "all por persona",
+    "80g de pasta",
+    "44g pecorino",
+    "Mucha pepper"
+  ],
+  "procedure": [
+    "make la pasta",
+    "Moler mucha pepper en una pan",
+    "Tostar muy brevemente la pepper",
+    "add water de la cooking",
+    "Bajar fuego a bajo y add pecorino",
+    "mix strong"
+  ],
+  "comments": ""
+}

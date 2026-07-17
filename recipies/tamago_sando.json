@@ -1,0 +1,22 @@
+{
+  "title": "Tamago sando",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://youtu.be/f-pqn6x_Lcs?t=25",
+  "servings": "1",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "2 eggs"
+  ],
+  "procedure": [
+    "boil 2 eggs 10min",
+    "Separar yolk y clara",
+    "Partir las claras en trozos",
+    "make mezcla de yemas, mayonesa y mustard (o mayonesa kewpie)",
+    "add en pan y cool",
+    "Opcional: un little de picante le pega a lot"
+  ],
+  "comments": ""
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Fish tacos",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.delish.com/cooking/recipe-ideas/recipes/a53296/easy-fish-taco-recipe/",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "A ojo all"
+  ],
+  "procedure": [
+    "make mezcla de oil, lima, paprika, cumin, sal y pepper",
+    "Marinar 15min",
+    "Machacar feta (lo suyo sería cotija, pero no es easy de encontrar)",
+    "make el fish a la pan",
+    "Tostar taco",
+    "Montar all",
+    "Opcional: make ensalada de col"
+  ],
+  "comments": ""
+}

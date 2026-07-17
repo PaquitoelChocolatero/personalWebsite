@@ -1,0 +1,28 @@
+{
+  "title": "Gelato",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=M2-pn0bzGWE",
+  "servings": "2",
+  "category": "",
+  "tags": [
+    "Ice cream"
+  ],
+  "ingredients": [
+    "100g cream",
+    "50g milk",
+    "2 yemas",
+    "25g azucar",
+    "pizca sal",
+    "Opcional saborizantes y trozos a gusto"
+  ],
+  "procedure": [
+    "Calentar cream y milk hasta que empiece a humear (88°C)",
+    "Blanquear yemas y sugar y sal",
+    "Atemperar mezcla con cantidades pequeñas de lacteos cada vez hasta que are templados, luego devolver all a olla",
+    "Calentar hasta que salga el first bubbling (90°C)",
+    "mix con saborizante",
+    "Congelar",
+    "Opcional add trozos"
+  ],
+  "comments": "Probar otros sabores"
+}

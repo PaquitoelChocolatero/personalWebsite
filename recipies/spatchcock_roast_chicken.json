@@ -1,0 +1,33 @@
+{
+  "title": "Spatchcock roast chicken",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=yUcZqyGrWYw",
+  "servings": "4",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "chicken",
+    "Sal",
+    "yeast royal",
+    "oil",
+    "paprika",
+    "pepper",
+    "garlic en polvo",
+    "onion",
+    "potatoes",
+    "lemon",
+    "wine white"
+  ],
+  "procedure": [
+    "Cortar columna del chicken a ambos lados y presionar pecho para romper esternón y que quedo plano",
+    "Con un palillo pinchar zonas de grasa (more amarillas o blancas que la meat)",
+    "Curar all la noche con 2 parts de sal y 1 de royal (con una tablespoon de sal should valer) sobre rejilla en fridge",
+    "Mezcalar oil con rest de spices en proportion a gusto y jugo de un trozo de lemon y pintar chicken un par de horas antes del oven",
+    "Cortar vegetables y add en la bandeja debajo de la rejilla con un chorro de wine white",
+    "Asar a 230° hasta golden y 65,5° en el centro del pecho, si se dora too much quick bajar hasta 170° aprox y al final dejarlo unos minutillos a 230° para que remains crispy",
+    "Dejar rest un little"
+  ],
+  "comments": ""
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Spanish omelette",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=y6q8GLMEC00",
+  "servings": "2",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "3 potatoes",
+    "1 onion",
+    "4 eggs",
+    "2 Yemas de egg"
+  ],
+  "procedure": [
+    "Caramelizar las dos cebollas o freir una sola after de las potatoes",
+    "fry a fuego medio alto las potatoes para que queden suaves y no muy crispy",
+    "add potatoes y cebollas en los eggs mientras se remueve",
+    "rest mezcla 3-5 min para que espese el egg",
+    "Salpimentar a gusto",
+    "add en pan small a fuego alto",
+    "make movimientos circulares con la pan para que el egg cubra la totalidad de la part inferior de la tortilla",
+    "Al minuto dar la vuelta con un plato y repetir proceso"
+  ],
+  "comments": ""
+}

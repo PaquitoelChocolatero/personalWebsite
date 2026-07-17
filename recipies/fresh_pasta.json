@@ -1,0 +1,26 @@
+{
+  "title": "Fresh pasta",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "las cantidades son un little a ojo, depende de cada egg y como vaya quedando",
+    "1 egg por persona",
+    "100g de flour por egg",
+    "chorro de oil",
+    "sal"
+  ],
+  "procedure": [
+    "add flour haciendo un volcano",
+    "add los eggs y el rest de ingredientes dentro",
+    "batir los eggs y cuando remains smooth empezar a add little a little flour de los bordes del volcano",
+    "cuando remains more maleable se pueden empezar a usar manos y seguir amasando adding flour little a little",
+    "cuando la masa remains soft como la plastilina se deja rest minimum half hora",
+    "estirar preferiblemente con una machine de make pasta y cortar en forma deseada"
+  ],
+  "comments": ""
+}

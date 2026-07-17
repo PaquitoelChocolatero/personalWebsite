@@ -1,0 +1,34 @@
+{
+  "title": "Paula's granola",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Other",
+    "Pastry"
+  ],
+  "ingredients": [
+    "150gr de copos de avena",
+    "50 gr de almonds en sheets (o el fruto secos que se prefiera)",
+    "30 gr de pipas (girasol, pumpkin, etc)",
+    "15 gr de semillas (lino, chia…)",
+    "1 tsp de cinnamon molida",
+    "1/2 tsp de sal",
+    "1 tspb de oil de girasol",
+    "20 ml de honey",
+    "30 ml de sirope de ágave",
+    "50 gr de sugar brown"
+  ],
+  "procedure": [
+    "Precalentamos el oven a 150º sin aire",
+    "Ponemos en un bol los ingredientes solids (copos de avena, almonds, pipas, semillas, cinnamon y sal). Removemos all bien",
+    "add el sugar brown a la mezcla",
+    "Ponemos en un recipiente apto para microondas la honey, el sirope de agave y el oil. Le damos un golpe de calor para que se haga mas fluida la mezcla",
+    "Agregamos la mezcla templada a la mezcla principal y removemos all muy muy bien para que all se junte",
+    "Ponemos en una bandeja un papel de oven y ponemos la mezcla sobre ella, extendiéndolo con un tenedor para que remains lo mas smooth posible",
+    "Metemos la bandeja a la half del oven y horneamos durante 20-25 minutos (depende de cada oven, hay que be muy pendiente) ⚠️ REMOVIENDO CADA 10 MINUTOS (importante!!!!)",
+    "Sacamos la bandeja y ponemos el papel con la mezcla sobre una rejilla, para que suelte la humedad y se ponga crispy"
+  ],
+  "comments": ""
+}

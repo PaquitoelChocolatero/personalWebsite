@@ -1,0 +1,24 @@
+{
+  "title": "Katsu curry",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=f3YiAmVURZE",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "1 chuleta por persona",
+    "panko para freir",
+    "1 pastilla de curry"
+  ],
+  "procedure": [
+    "Quitar hueso de la chuleta",
+    "2, make cortes en chuleta en forma cuadrícula",
+    "Salpimentar chuletas y rest all la noche",
+    "Empanar con panko (colar parts finas y espolvorear con water) y freir first a 160° y luego a 180° (o only una vez si es muy fino)",
+    "Paralelamente make curry japonés (disolver en water y calentar)",
+    "serve con arroz"
+  ],
+  "comments": ""
+}

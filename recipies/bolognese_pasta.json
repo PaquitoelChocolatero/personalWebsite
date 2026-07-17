@@ -1,0 +1,29 @@
+{
+  "title": "Bolognese pasta",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "2",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "1/2 onion",
+    "1 carrot",
+    "500g meat ground",
+    "150ml milk",
+    "200ml broth",
+    "tomato concentrate",
+    "300ml tomato (creo?)",
+    "spices (aunque no tradicional)",
+    "1-2 hojas de bay leaf"
+  ],
+  "procedure": [
+    "Pochar onion y carrot",
+    "Tostar meat",
+    "Tostar spices y juntar con mezcla",
+    "Tostar tomato concentrate y juntar",
+    "add liquids y dejar que reduzca"
+  ],
+  "comments": ""
+}

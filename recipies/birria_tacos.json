@@ -1,0 +1,44 @@
+{
+  "title": "Birria tacos",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=g2F5RO6vNSs",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main",
+    "Sauce"
+  ],
+  "ingredients": [
+    "sauce",
+    "===",
+    "5 tomates",
+    "half onion",
+    "un par de ajos",
+    "cumin",
+    "thyme",
+    "oregano",
+    "pepper",
+    "chiles (2 ancho, 1 morita)",
+    "hoja bay leaf",
+    "chorrillo vinegar",
+    "medio litro water",
+    "add con 2l de water",
+    "salar",
+    "costilla beef",
+    "boil y put al 4 2h aprox",
+    "sacar la grasa del broth para tostar tortillas",
+    "consomé (colado) con onion, meat y cilantro",
+    "tortillas con meat, cheese y put onion, cilantro y sauce"
+  ],
+  "procedure": [
+    "add ingredientes de sauce y boil cinco minutos aprox que se ablande all",
+    "blend muy bien",
+    "add sauce con water hasta llenar olla y salar",
+    "add costilla en trozos y boil al 4 hasta que se deshaga",
+    "Sacar la grasa del broth para tostar tortillas",
+    "add meat y cheese en tortillas",
+    "add pico de gallo a las tortillas",
+    "Preparar broth colado con onion, meat y cilantro"
+  ],
+  "comments": ""
+}

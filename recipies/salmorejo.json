@@ -1,0 +1,26 @@
+{
+  "title": "Salmorejo",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "4",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "1 KG DE TOMATES",
+    "100 ML DE oil DE OLIVA VIRGEN EXTRA",
+    "200 GR DE PAN",
+    "1 clove DE garlic",
+    "SAL AL GUSTO",
+    "2 eggs",
+    "100 GR DE JAMON SERRANO chopped"
+  ],
+  "procedure": [
+    "Trocea los tomates y tritúralos",
+    "Cuela en un colador fino el tomato para que remains soft",
+    "add el oil de oliva, garlic, pan y sal y vuelve a blend",
+    "Deja cool y add el egg boiled y el jamon"
+  ],
+  "comments": ""
+}

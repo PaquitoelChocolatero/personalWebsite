@@ -1,0 +1,29 @@
+{
+  "title": "Pumpkin buns",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Pastry"
+  ],
+  "ingredients": [
+    "450g flour fuerza",
+    "200g puree pumpkin",
+    "30g sugar brown",
+    "1 egg",
+    "1 chdta sal",
+    "7g yeast panadero",
+    "130ml milk",
+    "60g butter"
+  ],
+  "procedure": [
+    "Amasar unos 10min",
+    "rest 30min",
+    "Volver a amasar y make bollitos",
+    "Dejar fermentar",
+    "Pintar con egg",
+    "Hornear 15min a 180°C"
+  ],
+  "comments": ""
+}

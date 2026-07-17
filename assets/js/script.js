@@ -76,18 +76,21 @@ for (let i = 0; i < selectItems.length; i++) {
 }
 
 // filter variables
-const filterItems = document.querySelectorAll("[data-filter-item]");
-
 const filterFunc = function (selectedValue) {
 
-  for (let i = 0; i < filterItems.length; i++) {
+  const items = document.querySelectorAll("[data-filter-item]");
+
+  for (let i = 0; i < items.length; i++) {
 
     if (selectedValue === "all") {
-      filterItems[i].classList.add("active");
-    } else if (selectedValue === filterItems[i].dataset.category) {
-      filterItems[i].classList.add("active");
+      items[i].classList.add("active");
     } else {
-      filterItems[i].classList.remove("active");
+      const cats = items[i].dataset.category.split(",").map(function (c) { return c.trim(); });
+      if (cats.indexOf(selectedValue) !== -1) {
+        items[i].classList.add("active");
+      } else {
+        items[i].classList.remove("active");
+      }
     }
 
   }
@@ -161,7 +164,6 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 
 // recipe modal variables
-const recipeItems = document.querySelectorAll("[data-recipe]");
 const recipeModalContainer = document.querySelector("[data-recipe-modal-container]");
 const recipeModalCloseBtn = document.querySelector("[data-recipe-modal-close-btn]");
 const recipeOverlay = document.querySelector("[data-recipe-overlay]");
@@ -177,28 +179,57 @@ const recipeModalFunc = function () {
   recipeOverlay.classList.toggle("active");
 }
 
-for (let i = 0; i < recipeItems.length; i++) {
-  recipeItems[i].addEventListener("click", async function (e) {
-    e.preventDefault();
-    const recipeFile = this.dataset.recipe;
-    try {
-      const response = await fetch(recipeFile);
-      const recipe = await response.json();
-      recipeImg.src = recipe.image;
-      recipeImg.alt = recipe.title;
-      recipeTitle.textContent = recipe.title;
-      recipeLink.href = recipe.link;
-      recipeLink.style.display = recipe.link ? "inline-block" : "none";
-      recipeServings.textContent = recipe.servings;
-      recipeServings.style.display = recipe.servings ? "block" : "none";
-      recipeIngredients.innerHTML = recipe.ingredients.map(function (ing) { return "<li>" + ing + "</li>"; }).join("");
-      recipeProcedure.innerHTML = recipe.procedure.map(function (step) { return "<li>" + step + "</li>"; }).join("");
-      recipeModalFunc();
-    } catch (err) {
-      console.error("Error loading recipe:", err);
-    }
-  });
+const recipeList = document.querySelector(".recipies .project-list");
+
+async function loadRecipes() {
+  try {
+    const res = await fetch("recipies/index.json");
+    const { recipes } = await res.json();
+    const items = await Promise.all(recipes.map(async function (file) {
+      const r = await fetch("recipies/" + file);
+      return { ...(await r.json()), file: file };
+    }));
+    recipeList.innerHTML = items.map(function (r) {
+      return '<li class="project-item active" data-filter-item data-category="' + (r.tags || []).join(",") + '" data-recipe="recipies/' + r.file + '">'
+        + '<a href="#">'
+        + '<figure class="project-img">'
+        + '<img src="' + r.image + '" style="height: 30vh;" alt="' + r.title + '" loading="lazy">'
+        + '</figure>'
+        + '<h3 class="project-title">' + r.title + '</h3>'
+        + '<p class="project-category">' + (r.tags || []).join(", ") + '</p>'
+        + '</a>'
+        + '</li>';
+    }).join("");
+    filterFunc("all");
+  } catch (err) {
+    console.error("Error loading recipes:", err);
+  }
 }
+
+loadRecipes();
+
+recipeList.addEventListener("click", async function (e) {
+  const item = e.target.closest("[data-recipe]");
+  if (!item) return;
+  e.preventDefault();
+  const recipeFile = item.dataset.recipe;
+  try {
+    const response = await fetch(recipeFile);
+    const recipe = await response.json();
+    recipeImg.src = recipe.image;
+    recipeImg.alt = recipe.title;
+    recipeTitle.textContent = recipe.title;
+    recipeLink.href = recipe.link;
+    recipeLink.style.display = recipe.link ? "inline-block" : "none";
+    recipeServings.textContent = recipe.servings;
+    recipeServings.style.display = recipe.servings ? "block" : "none";
+    recipeIngredients.innerHTML = recipe.ingredients.map(function (ing) { return "<li>" + ing + "</li>"; }).join("");
+    recipeProcedure.innerHTML = recipe.procedure.map(function (step) { return "<li>" + step + "</li>"; }).join("");
+    recipeModalFunc();
+  } catch (err) {
+    console.error("Error loading recipe:", err);
+  }
+});
 
 recipeModalCloseBtn.addEventListener("click", recipeModalFunc);
 recipeOverlay.addEventListener("click", recipeModalFunc);

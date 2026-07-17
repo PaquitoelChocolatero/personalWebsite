@@ -1,0 +1,46 @@
+{
+  "title": "Spanish stew",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "2",
+  "category": "",
+  "tags": [
+    "Main",
+    "Other"
+  ],
+  "ingredients": [
+    "1/2 cup chickpeas",
+    "1/4 gallina",
+    "morcillo",
+    "rodilla beef",
+    "espinazo cerdo salted",
+    "hueso ham",
+    "taco ham",
+    "chorizo",
+    "blood sausage",
+    "potato",
+    "carrot",
+    "bay leaf",
+    "sal"
+  ],
+  "procedure": [
+    "put en remojo los chickpeas con el espinazo la noche previous",
+    "brown un little el morcillo (opcional)",
+    "add all la meat menos el second bloque de ingredientes con bay leaf",
+    "Olla normal:",
+    "Dejar que hierva",
+    "Bajar al 4 3-4h",
+    "Retirar impurezas de la meat que vayan saliendo (si queremos que el broth remains muy limpio seguir quitando durante all la cooking lo que suba a la superficie de grasa e impurezas)",
+    "Una hora after meter los chickpeas en malla",
+    "Olla express:",
+    "En este caso se echan also los chickpeas",
+    "Cerrar olla exprés y put a tope hasta 3/4 de la pressure o que silbe",
+    "Bajar a fuego bajo 50min",
+    "Sacar meat y chickpeas y preparar para comer (sacar huesos y malla)",
+    "Quitar grasa de la superficie",
+    "boil carrot y potato 15min aprox",
+    "set aside excedente de sopa pasándola por colador para congelar",
+    "make sopa con fideos y el chorizo y blood sausage en olla separada"
+  ],
+  "comments": ""
+}

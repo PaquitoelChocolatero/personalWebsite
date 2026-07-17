@@ -1,0 +1,22 @@
+{
+  "title": "White pizza",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "1",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "A ojo all"
+  ],
+  "procedure": [
+    "Extender masa de pizza",
+    "Esparcir cheese de untar, oregano, pesto",
+    "add ham, tomato y pistachos en trozos",
+    "Hornear",
+    "Partir encima la burrata",
+    "Un little de oil y more oregano"
+  ],
+  "comments": ""
+}

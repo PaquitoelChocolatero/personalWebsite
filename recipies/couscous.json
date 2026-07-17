@@ -1,0 +1,26 @@
+{
+  "title": "Couscous",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Leftovers",
+    "Main"
+  ],
+  "ingredients": [
+    "Cuscus",
+    "Lo que le quieras add (vegetables, meat, lo que sea)",
+    "toppings que le quieras add (yo pongo soy, picante, lima y parsley)"
+  ],
+  "procedure": [
+    "Picar condimentos lo more small que se pueda (se va a comer more cómodo luego)",
+    "Pochar condimentos",
+    "add cuscus y mix con condimento (la cantidad es hasta que el cuscus cubra las vegetables)",
+    "Tostar un a bit el cuscus",
+    "add water hasta cubrir all y tapar",
+    "boil hasta que no remains water (es muy quick)",
+    "add toppings"
+  ],
+  "comments": ""
+}

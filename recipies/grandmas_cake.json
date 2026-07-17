@@ -1,0 +1,51 @@
+{
+  "title": "Grandma's cake",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "9",
+  "category": "",
+  "tags": [
+    "Other",
+    "Pastry"
+  ],
+  "ingredients": [
+    "Molde de 20x20",
+    "150 ml de cream para montar",
+    "150 gr de chocolate para fundir",
+    "25 gr de butter",
+    "1 sobre de preparado para natillas",
+    "75 gr de sugar",
+    "500 ml de milk entera",
+    "Galletas (yo uso tostadas, de las cuadradas)",
+    "milk de more para mojar las galletas",
+    "decoration (bolas de chocolate, fideos, etc)"
+  ],
+  "procedure": [
+    "Ganache de chocolate",
+    "———————",
+    "Calentar la cream para montar en un cazo",
+    "add el chocolate en el cazo y melt",
+    "Cuando is practically derretido add la butter y mix hasta quedar smooth",
+    "Reservamos",
+    "Natillas",
+    "————",
+    "Mezclamos el sobre de preparado para natillas con el sugar y un little de milk",
+    "Batimos hasta deshacer all los grumos",
+    "Calentamos el rest de la milk a fuego medio",
+    "Cuando is hot add la mezcla previous",
+    "Removemos constantemente para evitar que se quemen o se peguen  entre 6 y 8 minutos (o hasta que haga burbujas) y retiramos del fuego",
+    "Reservamos",
+    "Montaje",
+    "————",
+    "Forramos el molde de papel de oven",
+    "Mojamos galletas en milk y las colocamos en el molde haciendo una first base",
+    "Echamos encima la half de las natillas aproximadamente",
+    "Mojamos otra vez galletas en milk y colocamos encima de la base de natillas",
+    "Echamos las natillas restantes encima",
+    "Mojamos por last vez galletas en milk y colocamos encima de la second base de natillas",
+    "Finalmente echamos la ganache de chocolate sobre la last capa de galletas y echamos sobre ella la decoration que se prefiera",
+    "Dejamos atemperar la tarta 20 min y guardamos en la fridge un minimum de 4 horas",
+    "⚠️ NOTA: Si la decoration es fondant, colocarla cuando is fria la tarta ya que al humedecerse puede estropearse"
+  ],
+  "comments": "Puede hacerse sin natillas alternando chocolate y galletas, para ello sería mas o menos una ganache por capa (un little menos para que no remains muy densa)\nOtra option es make el double de ganache y meter un piso extra de chocolate entre los pisos de natillas"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Spanish french toast",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://youtu.be/wMEpH76vqX4?t=532",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Pastry"
+  ],
+  "ingredients": [
+    "Infusión",
+    "======",
+    "600ml milk",
+    "400ml cream montar",
+    "2 chdas sugar",
+    "1 cinnamon",
+    "1 orange piel",
+    "1 lemon piel",
+    "pizca sal",
+    "pan torrija",
+    "eggs",
+    "sugar y cinnamon para rebozar luego"
+  ],
+  "procedure": [
+    "make infusión",
+    "Cortar trozos gordos de pan de torrija",
+    "Dejar en remojo many horas",
+    "Freir",
+    "Rebozar con sugar y cinnamon"
+  ],
+  "comments": ""
+}

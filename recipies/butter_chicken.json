@@ -1,0 +1,25 @@
+{
+  "title": "Butter chicken",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=a03U45jFxOI",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "300g chicken",
+    "2 tbsp pasta garlic",
+    "500g tomato",
+    "100g onion",
+    "50g cashews",
+    "1/2 tsp garam masala",
+    "4 tbsp sugar white",
+    "2 tbsp paprika picante (o lo que sea parecido)",
+    "5 tbsp butter",
+    "3 tbsp cream cooking",
+    "2 tbsp vinegar white"
+  ],
+  "procedure": [],
+  "comments": "No overcook el chicken"
+}

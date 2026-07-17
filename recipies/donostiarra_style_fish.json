@@ -1,0 +1,28 @@
+{
+  "title": "Donostiarra style fish",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=PqA4VtXsz2g",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "all por persona",
+    "fish",
+    "1 clove de garlic",
+    "1 cayena",
+    "parsley",
+    "oil",
+    "Chorro vinegar"
+  ],
+  "procedure": [
+    "Tostar meat del fish",
+    "Meter a 180°C 10min aprox",
+    "Tostar cayena y garlic en oil",
+    "add vinegar al fish",
+    "add oil al fish",
+    "add parsley al fish"
+  ],
+  "comments": ""
+}

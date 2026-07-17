@@ -1,0 +1,39 @@
+{
+  "title": "Croquettes",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=kRjwO8_y7k4",
+  "servings": "12",
+  "category": "",
+  "tags": [
+    "Leftovers",
+    "Main",
+    "Other"
+  ],
+  "ingredients": [
+    "Masa",
+    "====",
+    "- 50g butter",
+    "- 50g flour",
+    "- 400g milk"
+  ],
+  "procedure": [
+    "melt butter",
+    "Cuando burbujee add flour",
+    "stir para hidratar flour y cocinarla un little (a esto se le llama roux)",
+    "Opcional: si el relleno es raw como ham se puede add aquí para tostar un little also",
+    "add milk little a little para que sea more easy integrar (ahora es una bechamel)",
+    "Opcional: infusionar milk (e.g., calentar con hueso de ham, chicken, etc.)",
+    "add sal, pepper y nuez moscada",
+    "Dejar que espese hasta que se vea una masa smooth",
+    "Opcional: se puede mix bechamel con “sauce” de la masa (e.g.,  sauce chicken roasted, oil de freir pimientos con alguno machacado, etc.)",
+    "add “sabor” muy chopped",
+    "Calentar otro little para que los sabores se conozcan",
+    "Dejar que enfrie un day aprox",
+    "Bolear con dos cucharas o a mano",
+    "add en egg batido",
+    "add en pan grated (intercambiable por 50% panko) y dejarlas un momento para secar superficie",
+    "Congelar croquetas",
+    "Freir cuando se vayan a comer"
+  ],
+  "comments": ""
+}

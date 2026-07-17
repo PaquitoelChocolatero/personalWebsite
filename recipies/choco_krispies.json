@@ -1,0 +1,32 @@
+{
+  "title": "Choco Krispies",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Pastry"
+  ],
+  "ingredients": [
+    "1 cup de arroz",
+    "4 onzas de chocolate negro",
+    "4 onzas de chocolate white",
+    "10 g de butter",
+    "Sal fina (depende del size de tu pan)"
+  ],
+  "procedure": [
+    "Lavar el arroz",
+    "Cuece el arroz (importante que no se pase, si no no funcionará)",
+    "Lava el arroz boiled con water frio para que se separe y eliminar all el starch posible",
+    "Extiende el arroz en una bandeja de oven sobre un papel vegetal",
+    "Hornéalo a 50º hasta que se seque (ir sacando para moverlo y darlo la vuelta) Sí, tarda a lot",
+    "💡pon un tenedor en la puerta del oven para que no cierre del all y que salga all la humedad",
+    "Cuando el arroz is completely dry sepáralo con las manos para que no queden pegotes",
+    "Llena una pan de sal fina (una con base gruesa para que no se deforme) y ponla a calentar. Puedes ir echando some grano de arroz para saber si is lista. Si el grano de arroz “explota” (se infla) es que will be lista.",
+    "Ve echando granos de arroz, cuando are dorados echa all el contenido de la pan en un colador fino para colar la sal. Vuelve a put la sal en la pan y repite hasta que hayas hecho all el arroz.",
+    "Derrite el chocolate negro con 5g de butter (lo same para el white)",
+    "Mezcla la cantidad de arroz que quieras con cada uno de los tipos de chocolate. (Intenta que no haya a lot exceso de chocolate, echa little a little)",
+    "Extiéndelo en una bandeja y let it cool."
+  ],
+  "comments": "Puedes usar un tipo de arroz que ya venden sin starch, en ese caso te ahorras el proceso de boil y secar y puedes ir directamente al paso de la pan"
+}

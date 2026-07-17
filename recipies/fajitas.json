@@ -1,0 +1,26 @@
+{
+  "title": "Fajitas",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "1",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "1/2 bell pepper verde",
+    "1/4 bell pepper rojo",
+    "2 filetes chicken",
+    "spices a ojo",
+    "2 tortillas"
+  ],
+  "procedure": [
+    "Es la receta more básica y all a ojo",
+    "Asar en sarten vegetables",
+    "make chicken en tiras (o entero y partir after)",
+    "Juntar all y add spices",
+    "Calentar tortillas",
+    "make fajitas y add sauce"
+  ],
+  "comments": "Esta receta es un little lienzo en white"
+}

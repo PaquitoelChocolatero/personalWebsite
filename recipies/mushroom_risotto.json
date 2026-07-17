@@ -1,0 +1,37 @@
+{
+  "title": "Mushroom risotto",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "por persona",
+    "75g arroz arboreo (creo que cualquiera corto sirve)",
+    "500ml broth de verduritas",
+    "parmesan",
+    "butter",
+    "wine white",
+    "a ojo depending las personas",
+    "picar onion en cubitos",
+    "picar mushrooms en cubitos",
+    "seta en sheets",
+    "parsley para decorar"
+  ],
+  "procedure": [
+    "Pochar onion a fuego medio para que no coja color",
+    "Cuando la onion is traslúcida meter dados de mushrooms",
+    "Opcional: add un little de cumin y thyme",
+    "put a calentar el broth en una cazuela aparte (boil y luego bajar al 3 o 4)",
+    "Cuando are hechos los mushrooms, meter arroz y tostar un little",
+    "add un chorrillo de wine y stir",
+    "Cuando se absorba el wine empezar a add el broth cazo a cazo (o medio cazo si uno es a lot) y stir constantemente, cuando se absorba o no remains liquid, add more broth",
+    "Es importante no parar de stir all el arroz, el starch que suelta el arroz es lo que hace que remains creamy el risotto",
+    "Cuando el arroz is hecho (probarlo, should haber gastado all o casi all el broth) add parmesan al gusto (es enough, add, stir y probar hasta que nos guste)",
+    "Retirar del fuego y add un par de dados de butter para que acabe de quedar creamy y brillante",
+    "Emplatar con las tiras de champiñón (doradas en otra pan) y parsley"
+  ],
+  "comments": ""
+}

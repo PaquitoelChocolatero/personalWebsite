@@ -1,0 +1,17 @@
+{
+  "title": "Miso soup",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=Ug5sfkbo7jw",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "Las cantidades son a ojo en function del number de personas"
+  ],
+  "procedure": [
+    "Cambiar el dashi por las zanahorias y mushrooms (o lo que sea)"
+  ],
+  "comments": ""
+}

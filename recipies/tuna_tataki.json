@@ -1,10 +1,12 @@
 {
-  "title": "",
+  "title": "Tuna tataki",
   "image": "./assets/images/tbd.jpg",
   "link": "",
   "servings": "",
   "category": "",
-  "tags": [],
+  "tags": [
+    "Main"
+  ],
   "ingredients": [],
   "procedure": [],
   "comments": ""

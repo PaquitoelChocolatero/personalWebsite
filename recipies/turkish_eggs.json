@@ -1,0 +1,31 @@
+{
+  "title": "Turkish eggs",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=mck-t0wT0Lk",
+  "servings": "2",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "1 yogurt",
+    "1 garlic",
+    "sal",
+    "2 eggs/persona",
+    "chorrito vinegar",
+    "trozo butter",
+    "copos de chile",
+    "hierbabuena"
+  ],
+  "procedure": [
+    "Mezcar garlic chopped con yogurt y sal",
+    "Esparcir egg en plato para que se atempere",
+    "Colar eggs para separar clara liquid",
+    "Pochar eggs con pizca sal y chorrito vinegar 3min fuera del fuego",
+    "put egg sobre yogurt",
+    "Tostar un little de butter con copos de chili",
+    "add butter sobre egg",
+    "Picar hierbabuena encima del egg"
+  ],
+  "comments": ""
+}

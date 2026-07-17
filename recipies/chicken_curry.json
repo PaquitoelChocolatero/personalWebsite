@@ -1,0 +1,28 @@
+{
+  "title": "Chicken curry",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "Por serving",
+    "1/2 breast (o a ojo)",
+    "1/4 onion",
+    "1 garlic"
+  ],
+  "procedure": [
+    "Partir chicken en tacos",
+    "Tostar chicken",
+    "Retirar y pochar onion en tacos",
+    "Pochar garlic con onion",
+    "Tostar pasta de tomato y garam masala y turmeric (o el típico curry amarillo)",
+    "add milk de coco y dejar que reduzca",
+    "Meter chicken para terminar de hacerse y coger sabor",
+    "add un little de butter para abrillantar",
+    "accompany de arroz"
+  ],
+  "comments": ""
+}

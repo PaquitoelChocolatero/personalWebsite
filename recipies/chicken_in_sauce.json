@@ -1,0 +1,36 @@
+{
+  "title": "Chicken in sauce",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "2",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "4 Muslitos de chicken (2/pers)",
+    "1 onion",
+    "1 carrot",
+    "1/2 leek",
+    "1/2 zucchini",
+    "1 bell pepper verde de freir",
+    "1/2 bell pepper rojo large (depende del size more o menos)",
+    "2 cloves de garlic",
+    "broth de chicken o vegetables",
+    "water",
+    "oil",
+    "Sal",
+    "spices al gusto"
+  ],
+  "procedure": [
+    "Salpimentamos los muslos de chicken y los sellamos en la olla",
+    "Cortamos la carrot, la onion, el bell pepper, el zucchini y el leek en cuadraditos (brunoise). Picamos el garlic finito",
+    "Pochamos la carrot y la onion en el oil del chicken",
+    "Cuando la onion is transparente echamos el bell pepper",
+    "Cuando el bell pepper is blando echamos el zucchini, el leek y el garlic.",
+    "Una vez all la verdura is pochada add el chicken a la verdura (con all sus jugos) y el broth de vegetables y water hasta que remains cubierto (las proporciones al gusto).",
+    "add las spices de confianza (en nuestro caso oregano, parsley, pepper negra, paprika picante, bay leaf y thyme)",
+    "Dejar boil 45mins aproximadamente. IMPORTANTE: depending va cociendo hay que ir quitando la espuma que se genera."
+  ],
+  "comments": ""
+}

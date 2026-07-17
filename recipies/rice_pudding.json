@@ -1,0 +1,28 @@
+{
+  "title": "Rice pudding",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://youtu.be/KEqCg9-krPM?si=b58xmbintfjQLaQH",
+  "servings": "2",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "500ml milk",
+    "150g cream",
+    "60g arroz",
+    "80g sugar white",
+    "10g butter",
+    "1 cinnamon rama",
+    "zest lemon"
+  ],
+  "procedure": [
+    "Infusionar water en cinnamon y lemon hasta que tenga buen color",
+    "boil arroz hasta que se rompa, is thick y no remains water",
+    "En otra olla boil milk y cream",
+    "add arroz y boil 45min aprox hasta que is bien thick (first medio y luego bajar al minimum cuando is more thick para que no se pegue, el espesor es un little a gustos)",
+    "Sacar del fuego cuando tenga consistencia bien thick y se vea el fondo y add butter y sugar",
+    "Opcional caramelizar sugar encima"
+  ],
+  "comments": "Sigo sin tener clara la cantidad de sugar\n\nLa imaginación es el limit, probar a infusionar milk con palomitas y make crispy de caramel o something like this"
+}

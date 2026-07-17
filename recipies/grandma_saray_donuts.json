@@ -1,10 +1,12 @@
 {
-  "title": "",
+  "title": "Grandma Saray's donuts",
   "image": "./assets/images/tbd.jpg",
   "link": "",
   "servings": "",
   "category": "",
-  "tags": [],
+  "tags": [
+    "Other"
+  ],
   "ingredients": [],
   "procedure": [],
   "comments": ""

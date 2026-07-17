@@ -1,0 +1,23 @@
+{
+  "title": "Peas with ham",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "2",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "1/2 cup de peas",
+    "1/2 paquete de ham (o bacon)",
+    "1 garlic",
+    "spices"
+  ],
+  "procedure": [
+    "boil peas como viene en el paquete",
+    "Tostar garlic y ham",
+    "add peas",
+    "add spices a gusto"
+  ],
+  "comments": ""
+}

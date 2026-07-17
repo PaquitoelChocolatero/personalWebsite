@@ -1,0 +1,22 @@
+{
+  "title": "Pasta salad",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Other",
+    "Leftovers",
+    "Main"
+  ],
+  "ingredients": [
+    "all a ojo, los ingredientes se pueden intercambiar"
+  ],
+  "procedure": [
+    "boil pasta",
+    "Preparar rest de ingredientes",
+    "make vinagreta",
+    "Con la pasta cold juntar los ingredientes y sauce escogida"
+  ],
+  "comments": ""
+}

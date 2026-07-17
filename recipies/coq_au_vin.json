@@ -1,0 +1,46 @@
+{
+  "title": "Coq au vin",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=sSn6XXe6UzA",
+  "servings": "2",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "4 muslos",
+    "wine red",
+    "2 zanahorias",
+    "1/2 onion",
+    "4 chalotas (o half onion more)",
+    "6 mushrooms",
+    "1/2 bote bacon",
+    "3 ajos",
+    "2 chdas tomato concentrate",
+    "40gr flour",
+    "300ml broth chicken",
+    "2 hojas bay leaf",
+    "rama thyme",
+    "2 sobres gelatina neutra"
+  ],
+  "procedure": [
+    "Marinar el chicken con el chicken red 30min",
+    "Secar chicken",
+    "Tostar el bacon",
+    "Tostar chicken",
+    "Tostar 1 carrot en trozos, onion en trozos grandes y ajos",
+    "add tomato crushed y sofreir un little",
+    "add flour y cooking un little",
+    "add thyme y bay leaf",
+    "Juntar con el wine del marinated y broth de chicken",
+    "stir, put a boil y bajar a fuego medio",
+    "add gelatina hidratada",
+    "Meter el chicken",
+    "Bajar a fuego bajo 30-40mins",
+    "Sacar all por parts y colar broth",
+    "put a boil broth y add chalotas, carrot en trozos gordos y mushrooms en mitades toasted con butter",
+    "Cuando las vegetables are y el broth ha reducido add el bacon y chicken a fuego bajo",
+    "Cubrimos el chicken y dejamos rest fuera del fuego 5min"
+  ],
+  "comments": ""
+}

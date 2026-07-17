@@ -1,10 +1,12 @@
 {
-  "title": "",
+  "title": "Ceviche toast",
   "image": "./assets/images/tbd.jpg",
   "link": "",
-  "servings": "",
+  "servings": "2",
   "category": "",
-  "tags": [],
+  "tags": [
+    "Main"
+  ],
   "ingredients": [],
   "procedure": [],
   "comments": ""

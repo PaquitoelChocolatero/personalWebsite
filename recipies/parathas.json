@@ -1,0 +1,35 @@
+{
+  "title": "Parathas",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=BSi7KaA8O2o",
+  "servings": "10",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "500g flour",
+    "300g water",
+    "30g oil",
+    "10g sal",
+    "butter para las capas"
+  ],
+  "procedure": [
+    "mix all",
+    "rest 15min",
+    "Amasar",
+    "rest 15min",
+    "Si se ve elástica y smooth separar en 10 bolas",
+    "rest 15min",
+    "Aplanarlas lo máximo",
+    "add butter derretida por encima",
+    "Crear capas como un acordeon cogiendo la masa de una esquina y levantando little a little el rest mientras se junta all en una hilera",
+    "Enrollar como un rollo de cinnamon y meter el final por dentro",
+    "Aplastar un little con la mano para compactar",
+    "rest 15min",
+    "Aplanarlas lo máximo",
+    "Hacerlas a la pan",
+    "Si las haces little se pueden congelar para luego descongelarlas y terminar de tostarlas"
+  ],
+  "comments": ""
+}

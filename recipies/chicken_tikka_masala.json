@@ -1,0 +1,44 @@
+{
+  "title": "Chicken tikka masala",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=DZtHqd-RLiA",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "Pasta",
+    "=====",
+    "5 cloves de garlic",
+    "4 cm de ginger",
+    "8 g de garam masala",
+    "3 g de turmeric",
+    "2 chiles frescos",
+    "60 ml de water",
+    "40 ml de oil de girasol",
+    "chicken",
+    "====",
+    "4 contramuslos de chicken",
+    "250 g de yogurt",
+    "6 g de sal",
+    "30 g de pasta tikka masala",
+    "1 onion",
+    "55 g de butter",
+    "rest de la pasta tikka masala",
+    "7 g de paprika",
+    "800 g de tomato crushed",
+    "300 ml de milk de coco"
+  ],
+  "procedure": [
+    "make pasta tikka masala triturando all junto y emulsionando con oil",
+    "Marinar chicken all la noche",
+    "Marcar chicken sin exceso de marinated",
+    "make onion en same pan a fuego medio-bajo",
+    "add butter, paprika y rest de pasta para que se tueste un little",
+    "add tomato crushed hasta que reduzca",
+    "add chicken y mix",
+    "add milk de coco y cooking unos 10min para que reduzca y se haga el chicken"
+  ],
+  "comments": ""
+}

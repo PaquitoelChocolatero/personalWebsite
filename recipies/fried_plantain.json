@@ -1,0 +1,21 @@
+{
+  "title": "Fried plantain",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "1 platano macho"
+  ],
+  "procedure": [
+    "Cortar banana en trozos gordos",
+    "Freir en oil neutro a fuego medio",
+    "Aplastar el platano",
+    "Volver a freir",
+    "Pizca de sal"
+  ],
+  "comments": "Faltan ajustes"
+}

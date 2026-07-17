@@ -1,0 +1,27 @@
+{
+  "title": "Baked fish",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "fish",
+    "potatoes",
+    "onion",
+    "wine white",
+    "Sal",
+    "pepper",
+    "Provenzales (o eneldo)",
+    "lemon"
+  ],
+  "procedure": [
+    "mix potatoes y onion con liquids y spices",
+    "make potatoes 20min tapados",
+    "put fish con rajas a 180º durante aprox 20min tapados also",
+    "make otros 5-10min sin papel de plata al grill para que se dore"
+  ],
+  "comments": ""
+}

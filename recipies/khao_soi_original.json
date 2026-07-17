@@ -1,0 +1,34 @@
+{
+  "title": "Khao Soi original",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "2",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "5kg chicken",
+    "1/2 cinnamon",
+    "1 cardamomo",
+    "1 clavo",
+    "1 estrella anise",
+    "1 lemongrass",
+    "4g cilantro",
+    "125g coco",
+    "0,5l broth",
+    "12g sauce fish",
+    "15g pasta tamarindo",
+    "12g azucar",
+    "3g sauce soy oscura"
+  ],
+  "procedure": [
+    "Tostar spices",
+    "Machacar en pasta spices",
+    "brown chicken en cubos",
+    "Tostar pasta",
+    "add rest de ingredientes de la sauce",
+    "Juntar con chicken y fideos cocidos y fritos"
+  ],
+  "comments": ""
+}

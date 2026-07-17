@@ -1,0 +1,41 @@
+{
+  "title": "Brownie cheesecake",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Other",
+    "Pastry"
+  ],
+  "ingredients": [
+    "Brownie",
+    "180g Chocolate negro para fundir",
+    "80g butter sin sal",
+    "2 eggs",
+    "40g sugar",
+    "80g flour",
+    "Cheesecake",
+    "350g de cheese crema",
+    "200g de cream para montar",
+    "2 eggs",
+    "1tsp de extracto de vanilla",
+    "50g sugar",
+    "sweet de milk para la cobertura"
+  ],
+  "procedure": [
+    "Brownie",
+    "Derrite el chocolate con la butter al bath bain-marie",
+    "Bate los eggs con el sugar",
+    "add a la mezcla el chocolate derretido",
+    "add la flour y mezcla",
+    "Vierte en el molde y deja rest",
+    "Cheesecake",
+    "Mezcla all los ingredientes hasta que consigas una mezcla smooth",
+    "Vierte encima de la mezcla del brownie",
+    "Hornea a 150° durante 45/50 mins",
+    "Deja rest al menos 4h",
+    "Vierte el sweet de milk sobre la tarta"
+  ],
+  "comments": ""
+}

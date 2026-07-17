@@ -1,0 +1,24 @@
+{
+  "title": "Esquites",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "1",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "1 corn por persona",
+    "El rest al gusto"
+  ],
+  "procedure": [
+    "Sacar los granos de la mazorca",
+    "Tostar granos con butter y salpimentar",
+    "Deshacer el feta (por facilidad, en realidad es cotija)",
+    "Cortar en rodajas las piparras (o jalapeño) y onion",
+    "Picar cilantro",
+    "Cuando cool down el corn juntarlo all con mayonesa (puede ser picante)",
+    "add juice de lima a gusto"
+  ],
+  "comments": ""
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Boiled eggs",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "egg (lol)"
+  ],
+  "procedure": [
+    "Meter egg en water salada hirviendo con cuidado para que no se rompa al caer y dejar minutos en function de el resultado deseado",
+    "yolk liquid:",
+    "=========",
+    "6-6.5min",
+    "yolk dura:",
+    "========",
+    ">10min"
+  ],
+  "comments": ""
+}

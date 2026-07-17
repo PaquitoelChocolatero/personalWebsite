@@ -1,0 +1,25 @@
+{
+  "title": "Rice",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "1 part arroz",
+    "2 parts water",
+    "handful sal",
+    "spices"
+  ],
+  "procedure": [
+    "Lavar arroz hasta que salga limpia el water (meh, un par de veces)",
+    "add all a olla",
+    "boil water",
+    "put a fuego medio (de 1 a 9, un 4) y tapar",
+    "Esperar 13 minutos SIN LEVANTAR LA TAPA",
+    "Levantar tapa y stir para que se ponga blandito y no se pegue"
+  ],
+  "comments": "Matemático, funciona el 100% de las veces\n\n*Es 1/4 cup por persona como side y 1/2 cup si es principal en el plato tipo arroz fried, arroz a la cubana etc."
+}

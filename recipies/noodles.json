@@ -1,0 +1,27 @@
+{
+  "title": "Noodles",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Leftovers",
+    "Main"
+  ],
+  "ingredients": [
+    "-Fideos de udon",
+    "-Relleno (vegetables y salchichas)",
+    "-soy",
+    "-wine cooking",
+    "-oil de sesame",
+    "-sesame",
+    "-Furikake"
+  ],
+  "procedure": [
+    "Partir all los condimentos en tiras y put a fuego medio a pochar, cuidado de no pasarse.",
+    "put los fideos a boil hasta que are hechos",
+    "Calentar soy, wine, oil de sesame y furikake en pan a calentar, cuando parezca smooth add chorrito de maizena diluida.",
+    "mix all"
+  ],
+  "comments": ""
+}

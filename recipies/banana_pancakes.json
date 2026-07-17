@@ -1,0 +1,35 @@
+{
+  "title": "Banana pancakes",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Leftovers",
+    "Other"
+  ],
+  "ingredients": [
+    "banana pocho",
+    "walnuts",
+    "Cacao",
+    "Avena",
+    "egg",
+    "flour",
+    "honey",
+    "Sal",
+    "cinnamon",
+    "milk"
+  ],
+  "procedure": [
+    "Machacar banana pocho",
+    "Batir dentro un egg",
+    "add avena a gusto (un puñao yo que sé)",
+    "cinnamon, Cacao, honey y walnuts opcionales pero remains rico, echarlas",
+    "Pizca de sal",
+    "Ir echándo flour hasta consistencia de tortita",
+    "Si nos hemos pasado con la flour se puede rebajar con un little de milk",
+    "make en plancha con un little de butter (a mi me dió para dos)",
+    "Decorar como quieras (o solas cual persona triste, como yo vaya)"
+  ],
+  "comments": ""
+}

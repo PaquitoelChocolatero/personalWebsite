@@ -1,0 +1,31 @@
+{
+  "title": "Chicken in pepitoria",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=YGPEeNNkSoA",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "2 muslos por persona",
+    "1 yolk cada dos",
+    "1/2 onion",
+    "2 cloves garlic",
+    "5 almonds",
+    "saffron",
+    "wine white",
+    "broth chicken"
+  ],
+  "procedure": [
+    "Tostar chicken",
+    "Sofreir onion y garlic",
+    "Tostar pan, almonds y saffron (en ese orden)",
+    "Machacar previous con yemas de egg duro",
+    "add un little del broth hasta sauce",
+    "Desglasar la olla de la onion con wine",
+    "add mezcla y rest de broth a olla",
+    "Devolver chicken y cooking 30min (o 10min olla express)"
+  ],
+  "comments": ""
+}

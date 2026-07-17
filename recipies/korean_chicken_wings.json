@@ -1,0 +1,24 @@
+{
+  "title": "Korean chicken wings",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=ksU_YMvZ8R8",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "Alitas de chicken (las que sean por persona)"
+  ],
+  "procedure": [
+    "put sal, pepper y un garlic fino con las alitas",
+    "add maizena y royal a las alitas",
+    "fry alitas",
+    "Combinar gochujang, soy, vinegar, mustard, honey y sugar",
+    "Tostar una cayena y otro clove de garlic",
+    "add la sauce y esperar a que espese",
+    "Juntar con alitas y saltear un par de veces",
+    "add sesame y some fruto dry partido"
+  ],
+  "comments": "Menos gochugang"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Quinoa",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=p0CSBIIVDgI",
+  "servings": "1",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "1/4 cup por persona (si es side)"
+  ],
+  "procedure": [
+    "Lavar un little",
+    "boil 1.25 parts de water",
+    "Meter quinoa y bajar a bajo 12min",
+    "Se puede tostar un little en el oven para mejorar textura"
+  ],
+  "comments": "Echarle cosas para completar la ensalada"
+}

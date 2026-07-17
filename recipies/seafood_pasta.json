@@ -1,0 +1,29 @@
+{
+  "title": "Seafood pasta",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "spaghetti",
+    "shrimp",
+    "Berberechos (y su sauce de la lata)",
+    "Taquitos de salmon",
+    "Chili flakes",
+    "parsley",
+    "lemon",
+    "parmesan",
+    "wine white"
+  ],
+  "procedure": [
+    "make shrimp y salmon",
+    "put a make los spaghetti",
+    "make la sauce con el rest de ingredientes",
+    "add un little de water de pasta para que ligue more",
+    "add los spaghetti y mix all"
+  ],
+  "comments": ""
+}

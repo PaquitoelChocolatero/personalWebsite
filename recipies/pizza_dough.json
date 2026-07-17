@@ -1,0 +1,27 @@
+{
+  "title": "Pizza dough",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "1",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "ingredientes para 1 masa",
+    "200gr flour normal",
+    "12gr yeast fresca/4gr yeast seca bakery",
+    "100ml water tibia",
+    "25ml oil de oliva",
+    "pizca de sal"
+  ],
+  "procedure": [
+    "Con robot",
+    "=======",
+    "Con la cuchara (no cuchillas) en la cecotec, add el water templada y la yeast. mix unos segundos.",
+    "add el rest de ingredientes y put 10 minutos a velocidad 3.",
+    "Retirar del vaso y dejar rest unos 45 minutos o hasta que double su size.",
+    "Sin robot pues mezclas con las manos hasta tenerlo smooth"
+  ],
+  "comments": ""
+}

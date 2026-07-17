@@ -1,0 +1,47 @@
+{
+  "title": "Meatballs in sauce",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main",
+    "Sauce"
+  ],
+  "ingredients": [
+    "meatballs",
+    "========",
+    "- 500g meat ground",
+    "- 1/2 onion",
+    "- 15g pan grated",
+    "- 1 garlic",
+    "- 1 egg",
+    "sauce",
+    "====",
+    "- 2 zanahorias",
+    "- 1 onion",
+    "- 2 cloves de garlic",
+    "- tomato concentrate",
+    "- wine red",
+    "- spices a gusto (cumin, paprika)",
+    "- broth a gusto (chicken)"
+  ],
+  "procedure": [
+    "meatballs",
+    "========",
+    "Picar onion con parsley y garlic",
+    "mix con rest",
+    "make bolas y flour",
+    "Freir levemente",
+    "sauce",
+    "====",
+    "Pochar slowly vegetables",
+    "add tomato y spices a tostar un a bit",
+    "add wine para que haga un a bit de sauce y evapore alcohol",
+    "add broth y dejar que hierva para que coja bien sabor",
+    "Usar blender hasta que remains fino",
+    "Volver a boil",
+    "Meter meatballs hasta que espese lo enough"
+  ],
+  "comments": ""
+}

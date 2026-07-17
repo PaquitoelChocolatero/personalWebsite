@@ -1,0 +1,26 @@
+{
+  "title": "Pita bread",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=bq3Iw1fPs6o",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "3 tazas y 1/3 de flour",
+    "1g yeast seca",
+    "1 cup water tibia",
+    "tablespoon azucar",
+    "sal"
+  ],
+  "procedure": [
+    "mix los ingredientes secos",
+    "Amasar hasta que is soft y smooth la masa",
+    "Tapar 30min",
+    "Dividir en 8 parts",
+    "make bolas, aplanar y dejar rest 10min",
+    "oven a 250° hasta que se inchen y doren un little (no a lot, si se ponen duros se rompen al comer)"
+  ],
+  "comments": ""
+}

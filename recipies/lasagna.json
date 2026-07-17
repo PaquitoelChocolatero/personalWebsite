@@ -1,0 +1,33 @@
+{
+  "title": "Lasagna",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=4FvvPec0kCE&t=568s&pp=ygUHbGFzYcOxYQ%3D%3D",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "500gr meat ground",
+    "milk",
+    "flour",
+    "butter",
+    "vegetables al gusto",
+    "cheese para fundir",
+    "placas de lasagna"
+  ],
+  "procedure": [
+    "Cocinas vegetables y meat ground con spices al gusto",
+    "Bechamel",
+    "melt 1chda butter",
+    "add y mix 1chda flour",
+    "Dejar cocinando un little para perder sabor a flour cruda (roux)",
+    "add milk little a little hasta cantidad y espesura deseada",
+    "Lo normal es que al pasar dedo por cuchara deje un hueco",
+    "Preparar las placas de lasagna si fuera necesario",
+    "Montar en capas",
+    "add cheese encima",
+    "La bechamel se puede sustituir por ricota u omitir poniendo only sauce y cheese grated entre capas"
+  ],
+  "comments": ""
+}

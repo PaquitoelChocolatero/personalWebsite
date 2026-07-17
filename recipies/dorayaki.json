@@ -1,0 +1,32 @@
+{
+  "title": "Dorayaki",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "16",
+  "category": "",
+  "tags": [
+    "Pastry"
+  ],
+  "ingredients": [
+    "Cantidades para unos 8 dorayakis (16 tortitas)",
+    "4 eggs",
+    "100g sugar",
+    "30g honey",
+    "160g flour Tamizada",
+    "1 Tsp yeast chemical",
+    "20ml water"
+  ],
+  "procedure": [
+    "Mezclas bien los eggs, la honey y el sugar. add la flour y yeast tamizadas, y mix hasta que remains una masa soft, como de tortitas.",
+    "========",
+    "rest 15 minutos",
+    "========",
+    "add el water y mix hasta que remains una mezcla smooth",
+    "========",
+    "Calentar la pan y bajar el fuego a 3-4/9",
+    "make tortitas con unos 30ml de masa cada una, 2 minutos por el first lado (o hasta que salgan burbujas y se rompan), y 1 minuto por el lado restante.",
+    "========",
+    "Una vez tengamos las tortitas, put el relleno (Anko, chocolate, o lo que deseemos) en una, juntar con otra, y apretar los bordes para cerrar el dorayaki. Tip: Usar las palmas de las manos como si estuviéramos escondiendo un pájaro para make pressure en all el alrededor de las tortitas."
+  ],
+  "comments": ""
+}

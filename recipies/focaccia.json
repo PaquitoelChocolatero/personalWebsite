@@ -1,0 +1,31 @@
+{
+  "title": "Focaccia",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "4",
+  "category": "",
+  "tags": [
+    "Main",
+    "Pastry"
+  ],
+  "ingredients": [
+    "500g flour",
+    "320ml water",
+    "10g sugar",
+    "20g sal",
+    "1 paquete yeast panadero",
+    "100ml aceita oliva"
+  ],
+  "procedure": [
+    "mix all menos thyme hasta masa smooth",
+    "rest 15 min",
+    "Volver a amasar y pasar a bandeja con oil",
+    "add more oil por encima y clavar dedos",
+    "rest 30min",
+    "add thyme y clavarlo en la masa",
+    "Hornear a 230°C 20min aprox",
+    "add un little more de sal en escamas por encima",
+    "Se puede add more cosas con el thyme y comer only o partir a la half como un bocadillo"
+  ],
+  "comments": "Probar receta de BA (samin nosrat) con salmuera\nIntentar que sea more fluffy"
+}

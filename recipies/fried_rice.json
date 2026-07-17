@@ -1,0 +1,30 @@
+{
+  "title": "Fried rice",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=u2MJzEuI0vI",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Leftovers",
+    "Main"
+  ],
+  "ingredients": [
+    "Arroz (lol)",
+    "sauce de soy",
+    "oil de sesame",
+    "sesame toasted",
+    "garlic",
+    "egg",
+    "Lo que tengas, anarquía y cerveza cold"
+  ],
+  "procedure": [
+    "make el arroz, se supone que tiene que ser del day previous, tampoco pasa na",
+    "make el side que tengas",
+    "make el egg batido",
+    "Antes de que se seque too much el egg, add el arroz y mix bien",
+    "add la soy y sesame (se supone que por el borde del wok/pan para que se reparta better)",
+    "add el rest de ingredientes",
+    "add sesame y more cosas que se quieran add para acabar como hierbas"
+  ],
+  "comments": ""
+}

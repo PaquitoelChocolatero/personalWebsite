@@ -1,0 +1,34 @@
+{
+  "title": "Dark chocolate lava cake",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "8",
+  "category": "",
+  "tags": [
+    "Other",
+    "Pastry"
+  ],
+  "ingredients": [
+    "150 gr Chocolate Negro para fundir",
+    "3 eggs",
+    "80 gr de sugar",
+    "50 gr de butter",
+    "1 tbsp de flour",
+    "sugar glass"
+  ],
+  "procedure": [
+    "preheat el oven a 260",
+    "melt 100 gr de chocolate con dos cucharadas soperas de water y la butter",
+    "Batir los eggs con el sugar",
+    "add la flour y mix",
+    "add el chocolate fundido y mix",
+    "Untar los moldes individuales con butter y espolvorear un little de flour para evitar que se peguen",
+    "pour la mezcla llenando el molde 1/3",
+    "Partir el chocolate restante en 8 trozos",
+    "Colocar un trozo de chocolate en cada molde",
+    "Cubrir el rest con la mezcla",
+    "Hornear durante 7-8 minutos",
+    "Espolvorear sugar glas para decorar"
+  ],
+  "comments": "⚠️ Mejorar el tiempo en el oven"
+}

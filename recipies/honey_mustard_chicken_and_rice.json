@@ -1,0 +1,38 @@
+{
+  "title": "Honey mustard chicken and rice",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Other",
+    "Main"
+  ],
+  "ingredients": [
+    "Para el chicken:",
+    "========",
+    "chicken (xd)",
+    "sauce mustard-honey",
+    "Para el arroz:",
+    "========",
+    "Arroz (xdxd)",
+    "soy",
+    "oil de sesame",
+    "- Opcional: sesame toasted y parsley"
+  ],
+  "procedure": [
+    "Para el chicken:",
+    "========",
+    "make el chicken al oven 220ºC durante 10min",
+    "Pintar con capa de mustard honey y meter al grill 2min",
+    "3, Repetir paso 2",
+    "Para el arroz:",
+    "========",
+    "Tostar un garlic en el oil de sesame",
+    "add arroz y mix",
+    "add soy",
+    "Ajustar oil de sesame y soy al gusto",
+    "add componentes opcionales"
+  ],
+  "comments": ""
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Tuna melt",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/watch?v=CfnlQFTmbsY",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Leftovers",
+    "Main"
+  ],
+  "ingredients": [
+    "all los ingredientes son opcionales y a ojo, depende de lo que tengas",
+    "Lo básico obviamente es mayonesa y tuna, pero le remains bien alguna verdura cruda como onion o bell pepper y encurtidos como pickles, piparras o onion",
+    "Se pueden mix otras salsas como alioli o picante also"
+  ],
+  "procedure": [
+    "Es un sandwich, mezcla all y ponlo en dos panes"
+  ],
+  "comments": "El limit es tu imaginación :)"
+}

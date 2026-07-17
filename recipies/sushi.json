@@ -1,0 +1,33 @@
+{
+  "title": "Sushi",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "Arroz sushi",
+    "Sushi su",
+    "Alga nori",
+    "Relleno (en el mercadona venden tiras de salmon que se pueden dejar congeladas)"
+  ],
+  "procedure": [
+    "1º Arroz",
+    "=====",
+    "boil arroz",
+    "mix con sushi su",
+    "Dejar cool",
+    "2º Partir relleno para que ocupe un dedo de grosor (o tiras si nigiri)",
+    "3º Rollo",
+    "=====",
+    "Cortar alga en 2 para sushi small y cortar 1/4 para size un little mayor (la alga entera es too much large, como en la foto)",
+    "Envolver el bamboo en papel de plastic y put alga",
+    "Esparcir arroz dejando dos (o tres?) dedos vacíos encima",
+    "En el centro del arroz put un dedo de relleno deseado",
+    "Enrollar la part more cercana a ti hasta cubrir relleno y presionar",
+    "Soltar bamboo y voler a enrollar hasta el final humedeciendo la part del alga sin arroz"
+  ],
+  "comments": ""
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Seafood paella",
+  "image": "./assets/images/tbd.jpg",
+  "link": "https://www.youtube.com/shorts/J7CF7pWrxwI",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "Sofrito",
+    "====",
+    "onion",
+    "Calamar",
+    "tomato crushed",
+    "paprika",
+    "saffron",
+    "100gr arroz bomba (cualquiera que absorva, preferentemente valenciano)",
+    "broth",
+    "====",
+    "Fumet de fish (200ml?)",
+    "Cascaras de shrimp",
+    "Decoraciones",
+    "=========",
+    "shrimp",
+    "mussels (sin congelar)",
+    "Alioli/mayonesa a gusto"
+  ],
+  "procedure": [
+    "sauté en una pan a temperatura half baja el calamar y cuando salga el water sacar",
+    "Seguir sofriendo la onion",
+    "Cuando is la onion meter el calamar y juntar",
+    "add saffron y paprika y tostar brevemente",
+    "add dos cucharadas de tomato en sofrito y esperar a que espese",
+    "Tostar en cazo cascaras de gamba",
+    "add un chorrito de wine a shells para lavarlas y sacar all el jugo",
+    "Colar shells y add fumet para que hierva",
+    "Cuando el sofrito is listo juntar y nacarar con el arroz",
+    "Con el broth hierviendo add sobre arroz y stir ligeramente",
+    "Nivelar arroz",
+    "Seguir haciendo el arroz a temperatura half baja hasta que se vean los primeros granos de arroz",
+    "add decoration y bajar more la temperatura",
+    "Cuando no haya more broth subir la temperatura a half alta un little para make socarrat",
+    "add alioli y more decoraciones"
+  ],
+  "comments": ""
+}

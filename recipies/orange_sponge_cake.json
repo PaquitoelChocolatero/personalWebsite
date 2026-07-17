@@ -1,0 +1,31 @@
+{
+  "title": "Orange sponge cake",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Other",
+    "Pastry"
+  ],
+  "ingredients": [
+    "1 yogurt Natural (~125gr)",
+    "3 eggs",
+    "3MY de flour",
+    "2MY de sugar",
+    "1 orange large",
+    "1MY de oil de Oliva",
+    "1 sobre de yeast"
+  ],
+  "procedure": [
+    "Precalienta el oven a 180°",
+    "Ralla la piel de la orange y reserva",
+    "Pela la orange y trocéala.",
+    "add a un bol sugar, eggs, la zest, el oil, el yogurt y los gajos de orange y tritura all junto hasta que remains smooth.",
+    "Se puede add 1tbsp de chia antes de los secos para que se hidrate unos minutos",
+    "add la flour y la yeast tamizadas.",
+    "Coloca un papel de oven en el molde (o unta butter para que no se pegue) y vierte la masa.",
+    "put it in al oven unos 35 mins"
+  ],
+  "comments": ""
+}

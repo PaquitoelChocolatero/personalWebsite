@@ -1,0 +1,31 @@
+{
+  "title": "Tofu tacos",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Leftovers",
+    "Main"
+  ],
+  "ingredients": [
+    "Tofu firme",
+    "vegetables (pimientos y onion por ejemplo)",
+    "Tortillas",
+    "spices",
+    "soy",
+    "Pasta de tomato",
+    "sauce picante"
+  ],
+  "procedure": [
+    "Partir tofu en tiras",
+    "Secar tofu",
+    "add spices (cumin, paprika, oregano, onion, garlic, sal, pepper y GLUTAMATO el more importante) en cantidades razonables depending cada uno",
+    "make a la pan hasta crispy",
+    "Preparar mezcla de soy y pasta de tomato (con guishishisos?)",
+    "make las vegetables en la pan hasta blanditas (ningún misterio, con las mismas spices)",
+    "Calentar tortillas",
+    "Ensamblar, como los vengadores"
+  ],
+  "comments": ""
+}

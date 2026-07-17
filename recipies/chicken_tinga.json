@@ -1,0 +1,26 @@
+{
+  "title": "Chicken tinga",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "2 pechugas de chicken",
+    "3 chiles y un little del adobo",
+    "1/2 onion",
+    "2 tomates"
+  ],
+  "procedure": [
+    "boil pechugas (se puede usar chicken roasted)",
+    "Tatemar (aka quemar) los tomates en pan seca",
+    "blend con chiles",
+    "Sofreir un little la onion en manteca",
+    "add oregano y broth de chicken4.",
+    "add mezcla de chile",
+    "Cuando reduczca un little juntar con pechugas deshilachadas"
+  ],
+  "comments": ""
+}

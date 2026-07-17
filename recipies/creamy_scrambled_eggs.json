@@ -1,0 +1,23 @@
+{
+  "title": "Creamy scrambled eggs",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "eggs",
+    "ham (opcional)",
+    "cheese (opcional)",
+    "parsley (opcional)",
+    "sauce picante (opcional, recomendado)"
+  ],
+  "procedure": [
+    "Batir el egg con sal y pepper (y el cheese si tal)",
+    "put oil en una pan a fuego medio",
+    "add el egg y no dejar de stir para que no se cree costra de egg y remains como una butter, muy soft, no tener miedo de dejar el egg raw"
+  ],
+  "comments": ""
+}

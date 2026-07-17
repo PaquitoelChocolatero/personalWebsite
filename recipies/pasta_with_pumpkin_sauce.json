@@ -1,0 +1,25 @@
+{
+  "title": "Pasta with pumpkin sauce",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "",
+  "category": "",
+  "tags": [
+    "Main"
+  ],
+  "ingredients": [
+    "Pasta",
+    "pumpkin",
+    "cheese untar",
+    "Lima",
+    "sauce picante (opcional)",
+    "spices al gusto"
+  ],
+  "procedure": [
+    "Asar pumpkin a 200°C (30min? hasta que parezca rico)",
+    "blend con un little de cheese de untar, lima, picante y water de la pasta hasta consistencia de sauce (ajustar proporciones al gusto)",
+    "add sauce a pan con un little more de water de pasta y esperar a que sea smooth y reduzca",
+    "mix sauce con pasta y la toppings que le quieras put"
+  ],
+  "comments": ""
+}

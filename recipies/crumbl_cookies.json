@@ -1,0 +1,30 @@
+{
+  "title": "Crumbl cookies",
+  "image": "./assets/images/tbd.jpg",
+  "link": "",
+  "servings": "12",
+  "category": "",
+  "tags": [
+    "Other"
+  ],
+  "ingredients": [
+    "220gr butter a temperatura ambiente",
+    "300gr sugar",
+    "120gr egg",
+    "500gr flour de trigo",
+    "5gr royal",
+    "4gr sal"
+  ],
+  "procedure": [
+    "mix en un bol large la butter con el sugar",
+    "add el egg y seguimos mezclando",
+    "En un bol a part mezclamos los ingredientes secos (yeast, flour, bicarbonato y sal)",
+    "add al bol large la half de la mezcla seca y amasamos",
+    "Cuando is smooth add la otra half y amasamos a mano",
+    "Divides en tantos montones iguales como sabores quieras y le añades el toping (pepitas de chocolate, oreo, lotus, frutos secos…) y amasas cada monton para que se remains bien impregnado del topping",
+    "Divide ahora en montones de ~80gr cada galleta (si las quieres pequeñas menos aún) y add relleno si es lo que quieres (nutella, crema de pistacho…) y cierras la bola",
+    "Hornea a 180º unos 10-15 mins",
+    "Sacar del oven y decorar al gusto"
+  ],
+  "comments": ""
+}
