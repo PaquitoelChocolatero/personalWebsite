@@ -1,0 +1,18 @@
+{
+  "title": "Frozen yogurt",
+  "image": "./assets/images/froyo.jpg",
+  "link": "",
+  "servings": "1 gelatec easymove",
+  "ingredients": [
+    "2-3 greek yogurts",
+    "1/8 tsp of xantan gum (if using low fat yogurt)",
+    "Pinch of salt",
+    "Honey to taste"
+  ],
+  "procedure": [
+    "Mezcla todos los ingredientes en una batidora hasta obtener una textura cremosa.",
+    "Vierte la mezcla en un recipiente apto para congelador.",
+    "Congela durante al menos 4 horas, removiendo cada hora para evitar cristales.",
+    "Sirve y disfruta."
+  ]
+}

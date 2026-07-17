@@ -157,3 +157,48 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+
+
+// recipe modal variables
+const recipeItems = document.querySelectorAll("[data-recipe]");
+const recipeModalContainer = document.querySelector("[data-recipe-modal-container]");
+const recipeModalCloseBtn = document.querySelector("[data-recipe-modal-close-btn]");
+const recipeOverlay = document.querySelector("[data-recipe-overlay]");
+const recipeImg = document.querySelector("[data-recipe-img]");
+const recipeTitle = document.querySelector("[data-recipe-title]");
+const recipeLink = document.querySelector("[data-recipe-link]");
+const recipeServings = document.querySelector("[data-recipe-servings]");
+const recipeIngredients = document.querySelector("[data-recipe-ingredients]");
+const recipeProcedure = document.querySelector("[data-recipe-procedure]");
+
+const recipeModalFunc = function () {
+  recipeModalContainer.classList.toggle("active");
+  recipeOverlay.classList.toggle("active");
+}
+
+for (let i = 0; i < recipeItems.length; i++) {
+  recipeItems[i].addEventListener("click", async function (e) {
+    e.preventDefault();
+    const recipeFile = this.dataset.recipe;
+    try {
+      const response = await fetch(recipeFile);
+      const recipe = await response.json();
+      recipeImg.src = recipe.image;
+      recipeImg.alt = recipe.title;
+      recipeTitle.textContent = recipe.title;
+      recipeLink.href = recipe.link;
+      recipeLink.style.display = recipe.link ? "inline-block" : "none";
+      recipeServings.textContent = recipe.servings;
+      recipeServings.style.display = recipe.servings ? "block" : "none";
+      recipeIngredients.innerHTML = recipe.ingredients.map(function (ing) { return "<li>" + ing + "</li>"; }).join("");
+      recipeProcedure.innerHTML = recipe.procedure.map(function (step) { return "<li>" + step + "</li>"; }).join("");
+      recipeModalFunc();
+    } catch (err) {
+      console.error("Error loading recipe:", err);
+    }
+  });
+}
+
+recipeModalCloseBtn.addEventListener("click", recipeModalFunc);
+recipeOverlay.addEventListener("click", recipeModalFunc);

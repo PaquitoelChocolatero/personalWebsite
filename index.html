@@ -151,6 +151,10 @@
             <button class="navbar-link" data-nav-link>Portfolio</button>
           </li>
 
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Recipies</button>
+          </li>
+
         </ul>
 
       </nav>
@@ -617,7 +621,7 @@
                   <img src="./assets/images/boardGameTable.jpg" style="height: 30vh;" alt="DIY 3D board game table" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">DIY board game table with 3D accesories</h3>
+                <h3 class="project-title">DIY board game table with 3D printed accesories</h3>
 
                 <p class="project-category">Others</p>
 
@@ -751,6 +755,144 @@
             </li>
 
           </ul>
+
+        </section>
+
+      </article>
+
+
+
+
+
+      <!------------------------------------------------------------------------------------------------------------------
+        
+      Recipies
+
+      ------------------------------------------------------------------------------------------------------------------->
+
+      <article class="recipies" data-page="recipies">
+
+        <header>
+          <h2 class="h2 article-title">Recipies</h2>
+        </header>
+
+        <section class="projects">
+
+          <ul class="filter-list">
+
+            <li class="filter-item">
+              <button class="active" data-filter-btn>All</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Main course</button>
+            </li>
+
+            <li class="select-item">
+              <button data-select-item>Side</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Pastry</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Sauce</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Ice cream</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Others</button>
+            </li>
+
+          </ul>
+
+          <div class="filter-select-box">
+
+            <button class="filter-select" data-select>
+
+              <div class="select-value" data-selecct-value>Select category</div>
+
+              <div class="select-icon">
+                <ion-icon name="chevron-down"></ion-icon>
+              </div>
+
+            </button>
+
+            <ul class="select-list">
+
+              <li class="filter-item">
+                <button class="active" data-filter-btn>All</button>
+              </li>
+
+              <li class="filter-item">
+                <button data-filter-btn>Main course</button>
+              </li>
+
+              <li class="select-item">
+                <button data-select-item>Side</button>
+              </li>
+
+              <li class="filter-item">
+                <button data-filter-btn>Pastry</button>
+              </li>
+
+              <li class="filter-item">
+                <button data-filter-btn>Sauce</button>
+              </li>
+
+              <li class="filter-item">
+                <button data-filter-btn>Ice cream</button>
+              </li>
+
+              <li class="filter-item">
+                <button data-filter-btn>Others</button>
+              </li>
+
+            </ul>
+
+          </div>
+
+          <ul class="project-list">
+
+            <li class="project-item  active" data-filter-item data-category="ice cream" data-recipe="recipies/frozenYogurt.json">
+              <a href="#">
+
+                <figure class="project-img">
+
+                  <img src="./assets/images/froyo.jpg" style="height: 30vh;" alt="Yogur helado" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Frozen yogurt</h3>
+
+                <p class="project-category">Ice cream</p>
+
+              </a>
+            </li>
+
+          </ul>
+
+          <div class="recipe-modal-container" data-recipe-modal-container>
+            <div class="overlay" data-recipe-overlay></div>
+            <section class="recipe-modal">
+              <button class="modal-close-btn" data-recipe-modal-close-btn>
+                <ion-icon name="close-outline"></ion-icon>
+              </button>
+              <figure class="recipe-modal-img">
+                <img src="" alt="" data-recipe-img>
+              </figure>
+              <h3 class="h3 modal-title" data-recipe-title></h3>
+              <a class="recipe-link" href="" target="_blank" data-recipe-link>Ver receta original</a>
+              <p class="recipe-servings" data-recipe-servings></p>
+              <h4 class="h4 recipe-section-title">Ingredientes</h4>
+              <ul class="recipe-ingredients-list" data-recipe-ingredients></ul>
+              <h4 class="h4 recipe-section-title">Procedimiento</h4>
+              <ol class="recipe-procedure-list" data-recipe-procedure></ol>
+            </section>
+          </div>
 
         </section>
 
